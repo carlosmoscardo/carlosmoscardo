@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="jujutsu-kaisen-gojo.gif" width="1000" />
+  <img src="anime-jujutsu-kaisen.gif" width="1000" />
 </p>
